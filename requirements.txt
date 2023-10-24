@@ -1,0 +1,8 @@
+folktables==0.0.12
+lightgbm==3.3.5
+numpy==1.24.2
+pandas==2.0.0
+POT==0.9.0
+scikit_learn==1.2.2
+scipy==1.11.3
+statsmodels==0.14.0
